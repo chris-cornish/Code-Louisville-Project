@@ -1,0 +1,17 @@
+body {
+	color: #455A64;
+	font-family: 'Black Ops One', cursive;
+}
+
+h1 {
+	font-family: 'Black Ops One', cursive;
+}
+
+label {
+	color: #607D8B;
+}
+
+.navbar,
+.navbar.navbar-default {
+	color: #CFD8DC;
+}
